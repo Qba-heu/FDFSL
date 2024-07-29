@@ -1,0 +1,132 @@
+train time per DataSet(s): 1167.06933
+test time per DataSet(s): 1.61685
+average OA: 71.11 +- 2.19
+average AA: 81.27 +- 1.84
+average kappa: 67.5518 +- 2.4434
+accuracy for each class: 
+accuracy for each class: 
+accuracy for each class: 
+Class 0: 96.59 +- 2.72
+Class 1: 55.62 +- 9.97
+Class 2: 64.05 +- 7.26
+Class 3: 87.07 +- 7.78
+Class 4: 75.17 +- 12.50
+Class 5: 83.52 +- 10.22
+Class 6: 99.57 +- 1.30
+Class 7: 83.11 +- 14.36
+Class 8: 100.00 +- 0.00
+Class 9: 66.10 +- 13.21
+Class 10: 64.51 +- 6.05
+Class 11: 59.29 +- 8.11
+Class 12: 98.70 +- 1.35
+Class 13: 88.60 +- 5.47
+Class 14: 80.21 +- 11.64
+Class 15: 98.18 +- 1.98
+
+2023-04-14 13:12:59
+train time per DataSet(s): 1150.17904
+test time per DataSet(s): 1.65739
+average OA: 67.36 +- 1.84
+average AA: 78.67 +- 1.47
+average kappa: 63.4124 +- 2.0673
+accuracy for each class: 
+accuracy for each class: 
+accuracy for each class: 
+Class 0: 96.19 +- 5.13
+Class 1: 49.83 +- 9.49
+Class 2: 59.72 +- 11.44
+Class 3: 78.93 +- 16.43
+Class 4: 72.96 +- 11.02
+Class 5: 86.53 +- 7.95
+Class 6: 99.17 +- 2.50
+Class 7: 77.85 +- 12.48
+Class 8: 99.38 +- 1.88
+Class 9: 62.56 +- 14.28
+Class 10: 60.25 +- 6.74
+Class 11: 59.27 +- 7.10
+Class 12: 99.65 +- 0.32
+Class 13: 82.24 +- 10.44
+Class 14: 76.28 +- 11.21
+Class 15: 97.87 +- 2.53
+
+2023-04-14 16:28:25
+train time per DataSet(s): 1154.27377
+test time per DataSet(s): 1.72814
+average OA: 62.67 +- 2.72
+average AA: 73.97 +- 1.80
+average kappa: 58.2793 +- 3.0404
+accuracy for each class: 
+accuracy for each class: 
+accuracy for each class: 
+Class 0: 93.26 +- 6.28
+Class 1: 47.23 +- 12.81
+Class 2: 57.82 +- 11.20
+Class 3: 75.64 +- 18.04
+Class 4: 61.52 +- 17.12
+Class 5: 89.71 +- 6.31
+Class 6: 97.20 +- 5.67
+Class 7: 63.62 +- 19.65
+Class 8: 98.24 +- 3.77
+Class 9: 58.67 +- 13.36
+Class 10: 54.49 +- 10.53
+Class 11: 42.69 +- 10.99
+Class 12: 96.53 +- 4.03
+Class 13: 81.95 +- 10.89
+Class 14: 68.36 +- 14.87
+Class 15: 96.67 +- 4.04
+
+2023-04-14 19:45:10
+
+train time per DataSet(s): 1180.09855
+test time per DataSet(s): 1.69086
+average OA: 55.78 +- 6.02
+average AA: 68.29 +- 2.56
+average kappa: 50.7118 +- 6.3346
+accuracy for each class: 
+accuracy for each class: 
+accuracy for each class: 
+Class 0: 90.91 +- 10.76
+Class 1: 40.47 +- 13.91
+Class 2: 48.97 +- 13.25
+Class 3: 67.23 +- 16.30
+Class 4: 59.92 +- 13.66
+Class 5: 75.23 +- 17.63
+Class 6: 97.31 +- 6.89
+Class 7: 50.84 +- 18.77
+Class 8: 99.44 +- 1.67
+Class 9: 44.90 +- 16.42
+Class 10: 52.98 +- 13.40
+Class 11: 35.70 +- 12.23
+Class 12: 97.88 +- 2.15
+Class 13: 73.66 +- 15.82
+Class 14: 61.20 +- 15.83
+Class 15: 95.93 +- 6.10
+
+2023-04-14 23:05:17
+
+train time per DataSet(s): 1163.57932
+test time per DataSet(s): 1.64798
+average OA: 43.81 +- 5.58
+average AA: 57.42 +- 2.54
+average kappa: 37.7926 +- 5.5301
+accuracy for each class: 
+accuracy for each class: 
+accuracy for each class: 
+Class 0: 79.56 +- 17.77
+Class 1: 23.23 +- 10.37
+Class 2: 29.58 +- 12.45
+Class 3: 49.58 +- 23.14
+Class 4: 37.03 +- 20.43
+Class 5: 65.39 +- 13.60
+Class 6: 98.89 +- 2.37
+Class 7: 47.88 +- 20.31
+Class 8: 94.74 +- 9.70
+Class 9: 28.98 +- 15.36
+Class 10: 44.78 +- 20.78
+Class 11: 28.33 +- 11.15
+Class 12: 97.50 +- 5.27
+Class 13: 69.36 +- 21.80
+Class 14: 29.74 +- 13.70
+Class 15: 94.24 +- 9.66
+
+2023-04-15 02:21:28

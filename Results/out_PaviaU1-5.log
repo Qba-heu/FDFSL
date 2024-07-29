@@ -1,0 +1,80 @@
+train time per DataSet(s): 769.23912
+test time per DataSet(s): 6.35372
+average OA: 83.31 +- 1.89
+average AA: 85.19 +- 2.23
+average kappa: 78.3419 +- 2.1572
+accuracy for each class: 
+Class 0: 86.07 +- 4.22
+Class 1: 83.09 +- 8.28
+Class 2: 65.16 +- 6.85
+Class 3: 89.29 +- 5.67
+Class 4: 99.40 +- 0.61
+Class 5: 75.11 +- 12.61
+Class 6: 88.66 +- 7.90
+Class 7: 85.31 +- 9.52
+Class 8: 94.62 +- 3.33
+
+train time per DataSet(s): 766.37415
+test time per DataSet(s): 6.05650
+average OA: 81.74 +- 2.50
+average AA: 83.73 +- 2.46
+average kappa: 76.3945 +- 2.9921
+accuracy for each class: 
+Class 0: 83.66 +- 6.88
+Class 1: 81.70 +- 8.01
+Class 2: 60.90 +- 8.52
+Class 3: 92.37 +- 3.12
+Class 4: 99.46 +- 0.39
+Class 5: 69.68 +- 13.89
+Class 6: 86.50 +- 10.19
+Class 7: 87.22 +- 5.18
+Class 8: 92.04 +- 6.56
+
+train time per DataSet(s): 768.57306
+test time per DataSet(s): 6.26937
+average OA: 78.04 +- 2.52
+average AA: 81.48 +- 2.81
+average kappa: 71.7541 +- 2.8465
+accuracy for each class: 
+Class 0: 82.93 +- 4.27
+Class 1: 77.29 +- 8.67
+Class 2: 60.90 +- 8.31
+Class 3: 93.48 +- 3.43
+Class 4: 99.52 +- 0.58
+Class 5: 57.31 +- 13.90
+Class 6: 85.79 +- 9.16
+Class 7: 84.07 +- 14.85
+Class 8: 92.00 +- 7.27
+
+train time per DataSet(s): 765.85218
+test time per DataSet(s): 6.26903
+average OA: 67.44 +- 6.99
+average AA: 75.77 +- 3.47
+average kappa: 59.6941 +- 7.6327
+accuracy for each class: 
+Class 0: 71.26 +- 22.39
+Class 1: 62.27 +- 17.25
+Class 2: 54.64 +- 15.26
+Class 3: 89.94 +- 6.23
+Class 4: 99.37 +- 0.74
+Class 5: 48.15 +- 15.30
+Class 6: 90.32 +- 6.95
+Class 7: 75.99 +- 10.69
+Class 8: 90.03 +- 6.86
+
+train time per DataSet(s): 763.73093
+test time per DataSet(s): 6.19130
+average OA: 55.03 +- 7.05
+average AA: 64.67 +- 3.35
+average kappa: 45.6487 +- 6.6400
+accuracy for each class: 
+Class 0: 45.34 +- 30.79
+Class 1: 53.27 +- 17.05
+Class 2: 32.22 +- 10.11
+Class 3: 84.39 +- 11.17
+Class 4: 99.27 +- 1.18
+Class 5: 30.32 +- 11.34
+Class 6: 73.80 +- 16.00
+Class 7: 71.23 +- 13.88
+Class 8: 92.20 +- 5.38
+
