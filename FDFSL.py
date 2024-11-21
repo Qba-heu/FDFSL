@@ -541,7 +541,7 @@ class hor_Block(nn.Module):
         #                  device='cuda'),
         #     requires_grad=True)
         self.pos_encode= torch.from_numpy(self.Position(9)).cuda()
-        self.pos_embed = nn.Parameter(torch.zeros(1, dim, 9, 9))
+        self.pos_embed = nn.Parameter(torch.ones(1, dim, 9, 9))
         # self.pos_embed = nn.Parameter(torch.from_numpy(self.Position(9)))
 
         self.drop_path = DropPath(drop_path) if drop_path > 0. else nn.Identity()
